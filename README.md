@@ -1,0 +1,1 @@
+Esse é o meu portfólio pessoal criado durante a aula de Git e GitHub. Ele contém uma página HTML simples com informações sobre mim e meus objetivos de aprendizado.
